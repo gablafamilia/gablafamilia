@@ -1,16 +1,16 @@
-## Hi there 👋
+### Seja bem vindos familia 🚧
+### Aqui só entra quem sabe 🚨
 
-<!--
-**gablafamilia/gablafamilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gabriel Delconte Mainardes
 
-Here are some ideas to get you started:
+-Estou estudando no Alura
+-Estou me desenvolvendo no JavaScript
+-Ultilizo esse espaço para a organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entra em contato comigo🎖️
+
+gabriel000ck@gmail.com
+
+@gabriel_440
+
+![](https://i.pinimg.com/originals/82/ce/de/82cedeae83120da1bba340bfb2af2b12.gif)
